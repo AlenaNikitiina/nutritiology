@@ -1,0 +1,7 @@
+.description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/*width: calc(100% - 2 * 200px);*/
