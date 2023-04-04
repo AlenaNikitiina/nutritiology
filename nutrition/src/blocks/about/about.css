@@ -1,0 +1,11 @@
+.about {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "image title"
+    "image paragraph"
+    "image paragraph";
+    background-color: blanchedalmond;
+  padding: 20px;
+}

@@ -33,3 +33,12 @@ code {
 @import url(./blocks/footer/__column-link/footer__column-link.css);
 @import url(./blocks/footer/__author/footer__author.css);
 @import url(./blocks/footer/__column-links/footer__column-links.css);
+
+@import url(./blocks/title/title.css);
+
+/*about*/
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__title/about__title.css);
+@import url(./blocks/about/__paragraph/about__paragraph.css);
+@import url(./blocks/about/__img/about__img.css);
+@import url(./blocks/about/__me/about__me.css);

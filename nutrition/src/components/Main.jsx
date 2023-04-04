@@ -4,7 +4,7 @@ export default function Main () {
 
   return (
     <section className='description'>
-      <h2 className='description__title'>Привет, Я Дарья. Научу&nbsp;вас Нутрициологии</h2>
+      <h1 className='description__title'>Привет, Я Дарья. Научу&nbsp;вас Нутрициологии.</h1>
       <img className="description__image" src={header} alt="logo" />
     </section>
   )
