@@ -42,3 +42,8 @@ code {
 @import url(./blocks/about/__paragraph/about__paragraph.css);
 @import url(./blocks/about/__img/about__img.css);
 @import url(./blocks/about/__me/about__me.css);
+
+/*service*/
+@import url(./blocks/service/servise.css);
+@import url(./blocks/service/__link/service__link.css);
+@import url(./blocks/service/__arrow/service__arrow.css);

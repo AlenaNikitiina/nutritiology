@@ -1,8 +1,10 @@
 .about__title {
   font-style: normal;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 28px;
   line-height: 1.1;
   grid-area: title;
-
+  text-align: center;
+  margin: 0;
+  padding: 40px 20px;
 }

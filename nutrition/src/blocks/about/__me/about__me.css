@@ -1,4 +1,5 @@
 .about__me {
   max-width: calc(1440px - 2 * 148px);
   margin: 90px auto;
+  background-color: black;
 }

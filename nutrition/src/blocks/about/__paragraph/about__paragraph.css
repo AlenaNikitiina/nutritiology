@@ -1,9 +1,10 @@
 .about__paragraph {
-  padding: 20px;
   grid-area: paragraph;
   font-family: 'Neue Machina', 'Aria', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 28px;
-  line-height: 32px;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 0 30px;
+  
 }

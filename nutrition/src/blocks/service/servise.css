@@ -1,0 +1,6 @@
+.servise {
+  display: flex;
+  flex-direction: column;
+  background-color: #182718;
+  padding: 30px;
+}
