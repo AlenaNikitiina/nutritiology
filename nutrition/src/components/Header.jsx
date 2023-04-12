@@ -10,6 +10,9 @@ export default function Header () {
         <Route path='/' element={
           <Link to={'/about'} className="header__button header__navLink header__navLink_active">Обо мне</Link> }
         />
+        <Route path='/about' element={
+          <Link to={'/'} className="header__button header__navLink header__navLink_active">мне</Link> }
+        />
       </Routes>
     </header>
   );

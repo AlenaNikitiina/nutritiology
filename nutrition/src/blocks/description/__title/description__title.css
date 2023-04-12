@@ -1,5 +1,6 @@
 .description__title {
   padding: 50px;
+  max-width: 640px;
   font-size: 48px;
   line-height: 1.1;
   font-weight: 500;

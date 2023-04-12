@@ -13,28 +13,15 @@ export default function App() {
     <div className="App page">
       <Header />
       <Main />
-      <Routes>
-        <Route path="/about" element={<About />}></Route>
-      </Routes>
+
       <Service />
       <Footer />
     </div>
   );
 }
-
 /*
-
-<Route path="/sign-in" element={<Login handleLogin={handelLogin} />}></Route>
-
-  return (
-    <div className="App page">
-      <Routes>
-        <Route path="/" element={<He handleLogin={handelLogin} component={Header} />}></Route>
-        <Route path="/sign-in" element={<Login handleLogin={handelLogin} />}></Route>
-      </Routes>
-      <Header />
-      <Main />
-      <Footer />
-    </div>
-  );
-  */
+      <Route path="/" element={
+          <ProtectedRoute
+            component={Main}
+          /> }>
+        <Route path="/about" element={<About />}></Route>*/
