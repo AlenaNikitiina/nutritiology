@@ -1,0 +1,46 @@
+.about-me {
+  padding: 70px 0;
+}
+
+.about-me__content {
+  width: calc(100% - 2 * 70px);
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-me__text {
+  margin: 60px 0 0 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+  'img title'
+  'img parag';
+  column-gap: 20px;
+}
+
+.about-me__title {
+  grid-area: title;
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  color: var(--black);
+}
+
+.about-me__paragraph {
+  grid-area: parag;
+  margin: 0;
+  padding: 10px;
+  font-size: 16px;
+  color: var(--black);
+  text-indent: 15px;
+}
+
+.about-me__img {
+  grid-area: img;
+  display: block;
+  width: 100%;
+  max-width: 600px;
+}
