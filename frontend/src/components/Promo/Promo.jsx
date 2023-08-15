@@ -6,7 +6,11 @@ export default function Promo() {
   return (
     <section className='promo'>
       <div className='promo__content'>
-        <h1 className='promo__title'>Привет, Я Дарья. Научу&nbsp;вас&nbsp;Нутрициологии.</h1>
+        <div className='promo__info'>
+          <h1 className='promo__title'>Дарья Литуева</h1>
+          <p className='promo__paragraph'>Личные консультации по&nbsp;нутрициологии.</p>
+          <a className='promo__link link' href="#" target="_blank">Записаться</a>
+        </div>
         <img className='promo__img' src={daria} alt='мое фото' />
       </div>
     </section>
