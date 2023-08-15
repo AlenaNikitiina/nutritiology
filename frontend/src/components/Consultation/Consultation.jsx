@@ -1,4 +1,5 @@
 import '../Consultation/Consultation.css';
+import edaa from '../../images/edaa.jpg';
 
 export default function Consultation () {
 return (
@@ -15,7 +16,7 @@ return (
       </ul>
       <p className='consultation__price'>Цена консультации: 2000 руб./час</p>
 
-
+<img className='eda' src={edaa} alt="" />
 
       <h1 className='consultation__title'>личное ведение</h1>
       <p className='consultation__paragraph'>В том случае, если вы хотите:</p>
