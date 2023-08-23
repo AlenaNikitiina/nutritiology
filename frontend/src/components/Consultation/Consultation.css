@@ -6,6 +6,26 @@
 .consultation__content {
   width: calc(100% - 70px);
   margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.consultation__heading {
+  margin: 0 auto 50px;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: rgb(160, 199, 167) 1px 2px 3px;
+}
+
+.div {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rgb(160, 199, 167);
+  width: 100%;
+  padding: 20px;
+  border-radius: 50px;
 }
 
 .consultation__title {
@@ -13,7 +33,6 @@
   padding: 0;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: rgb(160, 199, 167) 1px 2px 3px;
 }
 
 .consultation__paragraph-title {
@@ -45,14 +64,8 @@
 
 .consultation__price {
   font-size: 22px;
-  margin: 50px 0 0;
-  text-align: center;
-  padding: 30px;
-  width: 350px;
-  height: 60px;
-  height: 100%;
-  border-radius: 10px;
-  background-color: rgb(160, 199, 167);
+  font-weight: 600;
+  margin: 20px 0;
 }
 
 .eda {
@@ -61,3 +74,16 @@
   object-fit: cover;
   margin: 70px 0;
 }
+
+/*
+.consultation__price {
+  font-size: 22px;
+  margin: 50px 0 0;
+  text-align: center;
+  padding: 30px;
+  width: 350px;
+  height: 60px;
+  height: 100%;
+  border-radius: 10px;
+  background-color: rgb(160, 199, 167);
+}*/
