@@ -34,12 +34,11 @@
 }
 
 .stage__item {
-  border: 3px solid grey;
+  border: 2px solid grey;
   padding: 15px;
   width: 100%;
   flex-wrap: wrap;
   align-items: center;
-
-    border-radius: 10px;
+  border-radius: 10px;
 
 }

@@ -1,3 +1,4 @@
+import '../Ad/Ad.css';
 import edaa from '../../images/edaa.jpg';
 
 export default function Ad () {

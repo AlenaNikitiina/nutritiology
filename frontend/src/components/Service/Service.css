@@ -5,7 +5,7 @@
 .servise__content {
   display: flex;
   flex-direction: column;
-  background-color: var(--grean);
+  background-color: var(--green);
   padding: 30px;
 }
 

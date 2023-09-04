@@ -49,9 +49,9 @@
 }
 
 .promo__link {
-  color: var(--black);
-  background-color: rgb(160, 199, 167);
-  border: 1px solid var(--black);
+  color: var(--white);
+  background-color: var(--green);
+  border-radius: 5px;
   margin: 40px 0;
   padding: 10px;
   text-align: center;

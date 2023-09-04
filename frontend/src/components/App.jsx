@@ -2,7 +2,7 @@ import React from "react";
 import Header from '../components/Header/Header';
 import Promo from './Promo/Promo';
 import AboutMe from './AboutMe/AboutMe';
-import Service from './Service/Service';
+//import Service from './Service/Service';
 import Footer from './Footer/Footer';
 import Ad from './Ad/Ad';
 import Stage from './Stage/Stage';
@@ -21,7 +21,6 @@ export default function App() {
       <Ad />
       <Stage />
       <Consultation />
-      <Service />
       <Footer />
     </div>
   );
