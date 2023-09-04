@@ -27,4 +27,5 @@
   --movie-grey: #F9F9F9;
   --border-color: #E8E8E8;
   --scarlet: #FF4062;
+  border: 1px solid red;
 }

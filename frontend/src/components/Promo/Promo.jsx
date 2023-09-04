@@ -1,9 +1,7 @@
 import '../Promo/Promo.css';
 import daria from '../../images/D.jpg.jpg';
-//import daria from '../../images/daria.jpg';
 
 export default function Promo() {
-
   return (
     <section className='promo'>
       <div className='promo__content'>
@@ -12,6 +10,7 @@ export default function Promo() {
           <p className='promo__paragraph'>Личные консультации по&nbsp;нутрициологии.</p>
           <a className="promo__link link" href="#" target="_blank">Записаться</a>
         </div>
+        
         <img className='promo__img' src={daria} alt='мое фото' />
       </div>
     </section>
