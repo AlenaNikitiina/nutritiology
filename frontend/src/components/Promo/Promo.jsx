@@ -10,8 +10,10 @@ export default function Promo() {
           <p className='promo__paragraph'>Личные консультации по&nbsp;нутрициологии.</p>
           <a className="promo__link link" href="#" target="_blank">Записаться</a>
         </div>
-        
-        <img className='promo__img' src={daria} alt='мое фото' />
+
+       
+          <img className='promo__img' src={daria} alt='мое фото' />
+      
       </div>
     </section>
   );
