@@ -19,7 +19,7 @@ return (
         </div>
 
         <div>
-          <a className="consultation__link link" href="#" target="_blank">Запись на консультацию<span className="service__arrow">⟶</span></a>
+          <a className="consultation__link link" href="#" target="_blank">Записаться<span className="service__arrow">⟶</span></a>
         </div>
       </div>
 
@@ -29,26 +29,20 @@ return (
           <p className='consultation__paragraph'>В том случае, если вы хотите:</p>
           <ul className='consultation__list'>
             <li className='consultation__item'>личного консультирования ежедневно</li>
-            <li className='consultation__item'>задавать мне вопросы в любое время (рабочее)</li>
+            <li className='consultation__item'>задавать мне вопросы в любое рабочее время</li>
             <li className='consultation__item'>интересоваться составом и сочетанием продуктов</li>
             <li className='consultation__item'>сдать check-up по анализам и услышать от меня обратную связь</li>
             <li className='consultation__item'>получать знания, которые останутся с вами в будущем</li>
             <li className='consultation__item'>чувствовать психологическую поддержку и помощь</li>
           </ul>
 
-          <p className='consultation__paragraph'>Как оно проходит?</p>
-          <ul className='consultation__list'>
-            <li className='consultation__item'>Мы созваниваемся, обсуждаем ваши вопросы и цели</li>
-            <li className='consultation__item'>В случае взаимного понимания подписываем соглашение</li>
-            <li className='consultation__item'>Вы заполняете опросники/анкеты, затем мы обсуждаем план дальнейшей работы</li>
-            <li className='consultation__item'>Вы на связи со мной ежедневно, я корректирую дневник питания, пищевые добавки, ваши личные запросы</li>
-          </ul>
+
           <p className='consultation__paragraph'>Для ознакомления со мной и уверенности, что вы выбрали того, кто вам нужен, я даю бонус: <span className='consultation__span'>первая неделя бесплатно!</span></p>
           <p className='consultation__price'>Цена личного ведения: 10 000 руб./месяц</p>
         </div>
 
         <div>
-          <a className="consultation__link link" href="#" target="_blank">Запись на личное ведение<span className="service__arrow">⟶</span></a>
+          <a className="consultation__link link" href="#" target="_blank">Записаться<span className="service__arrow">⟶</span></a>
         </div>
       </div>
     </div>
@@ -57,8 +51,12 @@ return (
 }
 
 
-
-//<p className='consultation__paragraph-title'>Мое время не бесплатное. Это самое ценное, что у нас с вами есть, поэтому бесплатных консультаций у меня нет.</p>
-
 /*
-<p className='consultation__paragraph'>Я отправляю первичную анкету для ознакомления. Далее мы договариваемся о дате и времени. На консультации, если в первые 20 минут знакомства и общения я понимаю ваш запрос то, представляю чем могу вам помочь. Если ваш запрос вне моей компетенции, то деньги я брать не буду. Постараюсь направить к нужному специалисту. Если вы не хотите быть на связи со мной ежедневно, и у вас уже есть опыт совершенствования себя, вы сами неплохо разбираетесь в вопросах здоровья и питания, то в этом случае режим консультации вполне продуктивен.</p>*/
+          <p className='consultation__paragraph'>Как оно проходит?</p>
+          <ul className='consultation__list'>
+            <li className='consultation__item'>Мы созваниваемся, обсуждаем ваши вопросы и цели</li>
+            <li className='consultation__item'>В случае взаимного понимания подписываем соглашение</li>
+            <li className='consultation__item'>Вы заполняете опросники/анкеты, затем мы обсуждаем план дальнейшей работы</li>
+            <li className='consultation__item'>Вы на связи со мной ежедневно, я корректирую дневник питания, пищевые добавки, ваши личные запросы</li>
+          </ul>
+*/
