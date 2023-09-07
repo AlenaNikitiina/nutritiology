@@ -16,10 +16,10 @@ export default function App() {
       <Header />
       <Promo />
       <AboutMe />
-      <Warning />
-      <Stage />
       <Ad />
+      <Stage />
       <Consultation />
+      <Warning />
       <Footer />
     </div>
   )
