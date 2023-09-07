@@ -6,6 +6,7 @@ import AboutMe from './AboutMe/AboutMe';
 import Footer from './Footer/Footer';
 import Ad from './Ad/Ad';
 import Stage from './Stage/Stage';
+import Warning from "./Warning/Warning";
 
 import Consultation from "./Consultation/Consultation";
 
@@ -18,8 +19,9 @@ export default function App() {
       <Header />
       <Promo />
       <AboutMe />
-      <Ad />
+      <Warning />
       <Stage />
+      <Ad />
       <Consultation />
       <Footer />
     </div>
