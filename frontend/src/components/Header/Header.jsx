@@ -6,8 +6,8 @@ export default function Header () {
   return (
     <header className="header">
       <section className="header__content">
-        <button className='header__button button' type='button'>Обо мне</button>
-        <button className='header__button button' type='button'>Отзывы</button>
+        <a className='header__button button' href="#price">Тарифы</a>
+        <a className='header__button button' href="#">Отзывы</a>
       </section>
     </header>
   );

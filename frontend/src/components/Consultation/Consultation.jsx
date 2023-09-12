@@ -2,7 +2,7 @@ import '../Consultation/Consultation.css';
 
 export default function Consultation () {
 return (
-  <section className='consultation'>
+  <section id='price' className='consultation'>
     <h1 className='consultation__heading'>Мои услуги :</h1>
     <div className='consultation__content'>
 
