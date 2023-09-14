@@ -56,9 +56,6 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .about-me {
-    padding: 40px 0 0;
-  }
   .about-me__content {
     width: calc(100% - 2 * 40px);
   }
