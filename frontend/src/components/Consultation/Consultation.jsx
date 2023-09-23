@@ -49,14 +49,3 @@ return (
   </section>
   )
 }
-
-
-/*
-          <p className='consultation__paragraph'>Как оно проходит?</p>
-          <ul className='consultation__list'>
-            <li className='consultation__item'>Мы созваниваемся, обсуждаем ваши вопросы и цели</li>
-            <li className='consultation__item'>В случае взаимного понимания подписываем соглашение</li>
-            <li className='consultation__item'>Вы заполняете опросники/анкеты, затем мы обсуждаем план дальнейшей работы</li>
-            <li className='consultation__item'>Вы на связи со мной ежедневно, я корректирую дневник питания, пищевые добавки, ваши личные запросы</li>
-          </ul>
-*/
