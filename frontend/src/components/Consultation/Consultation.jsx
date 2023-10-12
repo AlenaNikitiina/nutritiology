@@ -7,7 +7,7 @@ return (
     <div className='consultation__content'>
 
       <div className='consultation__colomn'>
-        <div>
+        <div className='consultation__text'>
           <h2 className='consultation__title'>Консультация</h2>
           <p className='consultation__paragraph'>Я могу:</p>
           <ul className='consultation__list'>
@@ -24,7 +24,7 @@ return (
       </div>
 
       <div className='consultation__colomn'>
-        <div>
+        <div  className='consultation__text'>
           <h2 className='consultation__title'>Личное ведение</h2>
           <p className='consultation__paragraph'>В том случае, если вы хотите:</p>
           <ul className='consultation__list'>
@@ -36,7 +36,6 @@ return (
             <li className='consultation__item'>чувствовать психологическую поддержку и помощь</li>
           </ul>
 
-
           <p className='consultation__paragraph'>Для ознакомления со мной и уверенности, что вы выбрали того, кто вам нужен, я даю бонус: <span className='consultation__span'>первая неделя бесплатно!</span></p>
           <p className='consultation__price'>Цена личного ведения: 10 000 руб./месяц</p>
         </div>
@@ -44,6 +43,7 @@ return (
         <div>
           <a className="consultation__link link" href="#" target="_blank">Записаться<span className="service__arrow">⟶</span></a>
         </div>
+    
       </div>
     </div>
   </section>
