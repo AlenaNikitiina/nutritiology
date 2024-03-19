@@ -1,5 +1,6 @@
 .stage {
   padding: 70px 0;
+  background-color: var(--light-grey);
 }
 
 .stage__content {
@@ -12,12 +13,11 @@
   margin: 0 auto 40px;
   padding: 0;
   text-align: center;
-  text-transform: uppercase;
-  text-shadow: rgb(83, 180, 101) 1px 2px 3px;
+  text-shadow: var(--light-green) 1px 2px 3px;
 }
 
 .stage__subtitle {
-  color: rgb(85, 182, 150);
+  color: var(--text-grey);
   margin: 0;
   padding: 0;
   font-size: 20px;
@@ -39,7 +39,7 @@
 }
 
 .stage__item {
-  border: 2px solid grey;
+  border: 2px solid var(--text-grey);
   padding: 15px;
   width: 100%;
   flex-wrap: wrap;
