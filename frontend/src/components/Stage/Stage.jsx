@@ -9,26 +9,29 @@ export default function Stage() {
         <ul className='stage__list'>
           <li className='stage__item'>
             <h2 className='stage__subtitle'>(1)&nbsp;Знакомство</h2>
-            <p className='stage__paragraph'>Мое время не бесплатное. Это самое ценное, что у нас с вами есть, поэтому бесплатных консультаций у меня нет. Я отправляю первичную анкету для ознакомления. Далее мы договариваемся о дате и времени.</p>
+            <p className='stage__paragraph'>Понимаю, что мое и ваше время ценно. Бесплатных консультаций у меня, к сожалению, нет. Для начала вы заполняете анкету, чтобы я могла лучше вас узнать. Затем мы сможем договориться о дате и времени консультации. </p>
           </li>
           <li className='stage__item'>
             <h2 className='stage__subtitle'>(2)&nbsp;Анализ вашего состояния</h2>
-            <p className='stage__paragraph'> На консультации, если в первые 20 минут знакомства и общения я понимаю ваш запрос то, представляю чем могу вам помочь. Если ваш запрос вне моей компетенции, то деньги я брать не буду. Постараюсь направить к нужному специалисту.</p>
+            <p className='stage__paragraph'>В первые 20 минут нашей консультации я внимательно выслушаю вас и пойму, чем могу помочь. Если ваш запрос входит в мою компетенцию, я предложу вам решение. Если же это вопрос, требующий помощи других специалистов, я не возьму деньги и постараюсь направить вас к нужному специалисту.</p>
           </li>
           <li className='stage__item'>
-            <h2 className='stage__subtitle'>(3)&nbsp;Подготовка к работе</h2>
-            <p className='stage__paragraph'> Если вы не хотите быть на связи со мной ежедневно, и у вас уже есть опыт совершенствования себя, вы сами неплохо разбираетесь в вопросах здоровья и питания, то в этом случае режим консультации вполне продуктивен.</p>
+            <h2 className='stage__subtitle'>(3)&nbsp;Состовление программы</h2>
+            <p className='stage__paragraph'>Совместно мы проведем анализ вашего текущего состояния, чтобы лучше понять ваши потребности и цели. Затем разработаем индивидуальный рацион питания, учитывая ваши предпочтения и потребности организма. Составим план тренировок, чтобы поддерживать здоровье и контролировать вес. Будем регулярно контролировать прогресс, чтобы достичь наилучших результатов.</p>
           </li>
           <li className='stage__item'>
-            <h2 className='stage__subtitle'>(4)&nbsp;Состовление программы</h2>
-            <p className='stage__paragraph'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam odio ipsum nihil qu molestiae eius spiciatis possimus sit vitae deleniti consectetur omnis libero distinctio laboriosam laborum.</p>
-          </li>
-          <li className='stage__item'>
-            <h2 className='stage__subtitle'>(5)&nbsp;Сопровождение</h2>
-            <p className='stage__paragraph'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam odio ipsum nihil quaerat, animi exercitationem doloribus molestiae eius tempora perspiciatis possimus sit vitae deleniti consectetur omnis libero distinctio laboriosam laborum.</p>
+            <h2 className='stage__subtitle'>(4)&nbsp;Подготовка к работе</h2>
+            <p className='stage__paragraph'>Если вы не желаете быть на связи со мной ежедневно и уже обладаете опытом самосовершенствования, то режим единоразовых консультации вполне продуктивен. Наши знания в области здоровья и питания помогут вам эффективно работать над собой. Давайте начнем.</p>
           </li>
         </ul>
       </div>
     </section>
   )
 }
+
+/*
+<li className='stage__item'>
+            <h2 className='stage__subtitle'>(5)&nbsp;Сопровождение</h2>
+            <p className='stage__paragraph'>Lore.</p>
+          </li>
+          */

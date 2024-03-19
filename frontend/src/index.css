@@ -2,21 +2,12 @@
 @import url(./vendor/fonts/fonts.css);
 @import url(./page/page.css);
 
-.body {
-
-}
 
 :root {
   --white: #FFFFFF;
   --black: #000000;
   --green: #2f562f;
   --light-green: rgb(83, 180, 101);
-  
   --light-grey: #F2F2F2;
-  --dark-grey: #E8E8E8;
   --text-grey: #A0A0A0;
-  --movie-grey: #F9F9F9;
-  --border-color: #E8E8E8;
-  --scarlet: #FF4062;
-  border: 1px solid red;
 }
