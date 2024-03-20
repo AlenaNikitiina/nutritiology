@@ -40,6 +40,7 @@
 
 .stage__item {
   border: 2px solid var(--text-grey);
+  box-shadow: var(--text-grey) 2px 3px 3px;
   padding: 15px;
   width: 100%;
   flex-wrap: wrap;

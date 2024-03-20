@@ -19,7 +19,9 @@ return (
         </div>
 
         <div>
-          <a className="consultation__link link" href="#" target="_blank">Записаться<span className="service__arrow">⟶</span></a>
+          <a className="consultation__link link"
+            href="tg://resolve?domain=litueva_life" target="_blank">
+              Записаться<span className="service__arrow">⟶</span></a>
         </div>
       </div>
 
@@ -35,15 +37,15 @@ return (
             <li className='consultation__item'>получать знания, которые останутся с вами в будущем</li>
             <li className='consultation__item'>чувствовать психологическую поддержку и помощь</li>
           </ul>
-
           <p className='consultation__paragraph'>Для ознакомления со мной и уверенности, что вы выбрали того, кто вам нужен, я даю бонус: <span className='consultation__span'>первая неделя бесплатно!</span></p>
           <p className='consultation__price'>Цена личного ведения: 10 000 руб./месяц</p>
         </div>
 
         <div>
-          <a className="consultation__link link" href="#" target="_blank">Записаться<span className="service__arrow">⟶</span></a>
+          <a className="consultation__link link"
+            href="tg://resolve?domain=litueva_life" target="_blank">
+              Записаться<span className="service__arrow">⟶</span></a>
         </div>
-    
       </div>
     </div>
   </section>

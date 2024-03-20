@@ -7,7 +7,7 @@ export default function Footer () {
       <div className='footer__content'>
 
         <div className="footer__copyright">
-          <p className="footer__author">© {(new Date()).getFullYear()} Alena Nikitina</p>
+          <a href='https://github.com/AlenaNikitiina'  className="footer__author link">© {(new Date()).getFullYear()} Alena Nikitina</a>
         </div>
 
         <nav className="footer__nav">
