@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30a1ce1d.css",
+    "main.js": "/static/js/main.81d6c0bb.js",
+    "static/media/D.jpg.jpg": "/static/media/D.jpg.dd6f459aa32e6785ceb2.jpg",
+    "static/media/edaa.jpg": "/static/media/edaa.10587376190eaae8863a.jpg",
+    "static/media/eda.JPG": "/static/media/eda.6812f60c905e15045801.JPG",
+    "static/media/lenta.JPG": "/static/media/lenta.5d8ba603aa2f639184d5.JPG",
+    "static/media/ya.JPG": "/static/media/ya.5ba59373492c82981a1d.JPG",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/instagram_color_white.svg": "/static/media/instagram_color_white.83c7528ffbf99aa26ba5294df64ac4db.svg",
+    "index.html": "/index.html",
+    "main.30a1ce1d.css.map": "/static/css/main.30a1ce1d.css.map",
+    "main.81d6c0bb.js.map": "/static/js/main.81d6c0bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a1ce1d.css",
+    "static/js/main.81d6c0bb.js"
+  ]
+}

@@ -1,7 +1,18 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
-@import url(./page/page.css);
 
+.body {
+  margin: 0 auto;
+  min-height: 100vh;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-size: 18px;
+  font-weight: 400;
+  background-color: var(--white);
+  color: var(--black);
+}
 
 :root {
   --white: #FFFFFF;

@@ -20,7 +20,7 @@ return (
 
         <div>
           <a className="consultation__link link"
-            href="tg://resolve?domain=litueva_life" target="_blank">
+            href="https://t.me/litueva_life" target="_blank">
               Записаться<span className="service__arrow">⟶</span></a>
         </div>
       </div>
@@ -43,7 +43,7 @@ return (
 
         <div>
           <a className="consultation__link link"
-            href="tg://resolve?domain=litueva_life" target="_blank">
+            href="https://t.me/litueva_life" target="_blank">
               Записаться<span className="service__arrow">⟶</span></a>
         </div>
       </div>
