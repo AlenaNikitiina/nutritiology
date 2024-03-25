@@ -4,7 +4,7 @@ export default function Stage() {
   return (
     <section className='stage'>
       <div className='stage__content'>
-        <h1 className='stage__title'>Этапы работы</h1>
+        <h1 className='stage__heading'>Этапы работы</h1>
 
         <ul className='stage__list'>
           <li className='stage__item'>

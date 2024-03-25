@@ -13,10 +13,11 @@
 }
 
 .consultation__heading {
-  margin: 0 auto 50px;
+  margin: 0 auto 40px;
   padding: 0;
   text-align: center;
-  text-shadow: var(--light-green) 1px 2px 3px;;
+  font-size: 38px;
+  font-weight: 400;
 }
 
 .consultation__colomn {
@@ -30,13 +31,14 @@
 }
 
 .consultation__text {
-  padding: 0px 15px;
+  padding: 0px 20px;
 }
 
 .consultation__title {
   margin: 15px 0 0;
   padding: 0;
   text-align: center;
+  font-weight: 400;
 }
 
 .consultation__paragraph {
@@ -52,7 +54,6 @@
 }
 
 .consultation__item { padding: 0 0 0 10px }
-
 .consultation__span { font-weight: 600 }
 
 .consultation__price {
@@ -65,7 +66,7 @@
   display: flex;
   justify-content: center;
   gap: 20px;
-  margin: 50px 10px 30px;
+  margin: 50px 15px 30px;
   padding: 20px;
   align-self: center;
   font-size: 26px;
@@ -83,12 +84,23 @@
 }
 .link:hover { opacity: 0.7 }
 
-
 @media screen and (max-width: 1024px) {
+  .consultation {
+    padding: 50px 0px;
+  }
   .consultation__content {
     width: calc(100% - 2 * 40px);
     flex-direction: row;
     gap: 20px;
+  }
+  .consultation__heading {
+    font-size: 24px;
+  }
+  .consultation__title {
+    font-size: 20px;
+  }
+  .consultation__price {
+    font-size: 18px;
   }
   .consultation__link {
     padding: 15px;
@@ -97,6 +109,9 @@
   .consultation__colomn{
     padding: 15px;
   }
+  .consultation__text {
+    padding: 0px 10px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -104,27 +119,32 @@
     flex-direction: column;
   }
   /* width: calc(100% - 2 * 20px);*/
-
+  .consultation__title {
+    font-size: 18px;
+  }
   .consultation__colomn {
     width: 100%;
     margin: 0;
-    padding: 0; /*5*/
+    padding: 0;
   }
   .consultation__text {
-    padding: 0 10px;
+    padding: 0 20px;
   }
   .consultation__item {
-    font-size: 16px;
+    font-size: 14px;
   }
   .consultation__price {
-    font-size: 18px;
+    font-size: 16px;
   }
   .consultation__link {
     padding: 10px;
     font-size: 18px;
+    margin: 30px 15px 30px;
   }
   .consultation__heading {
-    font-size: 22px;
+    font-size: 20px;
+  }
+  .consultation__paragraph {
+    font-size: 14px;
   }
 }
-
