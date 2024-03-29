@@ -1,8 +1,8 @@
 import '../Ad/Ad.css';
-import edaa from '../../images/edaa.jpg';
+import food from '../../images/food.jpg';
 
 export default function Ad () {
   return (
-    <img className='eda' src={edaa} alt="" />
+    <img className='eda' src={food} alt="" />
   )
 }

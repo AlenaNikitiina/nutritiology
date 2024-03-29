@@ -10,7 +10,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: var(--black);
+  font-size: 14px;
+  line-height: 1.2;
   color: var(--white);
 }
 
@@ -22,8 +23,6 @@
 }
 
 .footer__author {
-  font-size: 14px;
-  line-height: 1.2;
   color: var(--white);
 }
 
@@ -34,6 +33,7 @@
 
 .footer__nav-heading {
   font-size: 14px;
+  font-weight: 400;
 }
 
 .footer__nav-links {
@@ -44,16 +44,16 @@
 }
 
 .footer__nav-link {
-  line-height: 30px;
-  font-size: 14px;
   margin: 0px;
   padding: 5px;
-  color: var(--white);
-  list-style: none;
+  display: inline-block;
 }
 
 .footer__social-icon {
-  z-index: 1;
+  margin-right: 5px;
+  height: 15px;
+  width: 15px;
+  background-color: var(--white);
 }
 
 @media all and (max-width:640px) {

@@ -81,6 +81,8 @@
   text-decoration: none;
   transition: opacity .3s linear;
   cursor: pointer;
+  list-style: none;
+  color: var(--white);
 }
 .link:hover { opacity: 0.7 }
 
