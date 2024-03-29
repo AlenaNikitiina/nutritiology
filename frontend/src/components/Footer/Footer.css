@@ -52,6 +52,10 @@
   list-style: none;
 }
 
+.footer__social-icon {
+  z-index: 1;
+}
+
 @media all and (max-width:640px) {
   .footer__content {
     flex-direction: column-reverse;
