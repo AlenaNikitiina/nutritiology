@@ -4,9 +4,9 @@
 
 Сайт практикующего врача для привлечения клиентов. Потенциальный клиент может познакомиться с образованием, подходом врача и выбрать тариф для себя. В настоящий момент продолжаются работы над текстом.
 
-![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/nutri.png)
+![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/opening.png)
 
-![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/nutrition.png)
+![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/second.png)
 
 
 ## Стек технологий
