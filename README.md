@@ -6,9 +6,9 @@
 
 🔗 Сайт  https://litueva-mentor.ru/
 
-![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/nutri.png)
+![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/opening.png)
 
-![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/nutrition.png)
+![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/second.png)
 
 
 ## Стек технологий
