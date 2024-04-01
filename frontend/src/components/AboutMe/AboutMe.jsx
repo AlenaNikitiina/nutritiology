@@ -1,13 +1,13 @@
 import './AboutMe.css';
 import eda from '../../images/eda.JPG';
-import ya from '../../images/ya.JPG';
+import me from '../../images/me.jpg'
 
 export default function AboutMe() {
   return (
     <section className='about-me'>
       <div className='about-me__content'>
         <article className='about-me__text'>
-          <img className='about-me__img' src={ya} alt='девушка пишет в ежедневник' />
+          <img className='about-me__img' src={me} alt='девушка пишет в ежедневник' />
           <h2 className='about-me__title'>Образование</h2>
           <div>
             <p className='about-me__paragraph'>Как врач-нутрициолог, я обладаю уникальным сочетанием знаний и опыта. Мои два высших образования — психолог-педагог и врач анестезиолог-реаниматолог — позволяют мне видеть здоровье с разных сторон. Недавно завершенный базовый курс по нутрициологии добавил новую грань к моим профессиональным навыкам.</p>
