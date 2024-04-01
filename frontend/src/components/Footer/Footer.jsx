@@ -15,7 +15,7 @@ export default function Footer () {
           <h3 className="footer__nav-heading">Мои Соцсети :</h3>
           <ul className="footer__nav-links">
             <li>
-              <a href="#" className="footer__nav-link link" target="blank">
+              <a href="tg://resolve?domain=litueva_life" className="footer__nav-link link" target="blank">
                 <img className="footer__social-icon" src={vk} alt="Вконтакте"/>Vkontakte</a>
             </li>
             <li>
