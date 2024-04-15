@@ -7,6 +7,7 @@ import Ad from '../Ad/Ad';
 import Stage from '../Stage/Stage';
 import Warning from '../Warning/Warning';
 import Consultation from '../Consultation/Consultation';
+import Diploma from '../Diploma/Diploma';
 import './App.css';
 
 //import { Route, Routes } from 'react-router-dom';
@@ -20,6 +21,7 @@ export default function App() {
       <Ad />
       <Stage />
       <Consultation />
+      
       <Warning />
       <Footer />
     </div>
