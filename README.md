@@ -7,7 +7,7 @@
 🔗 Сайт  https://litueva-mentor.ru/
 
 <div align="left">
-    <img src="https://github.com/AlenaNikitiina/nutritiology/raw/main/website.mp4" width="700" alt="запись экрана сайта">
+    <img src="https://github.com/AlenaNikitiina/nutritiology/raw/main/website.mp4?raw=true" width="700" alt="запись экрана сайта">
 </div>
 
 ![Image](https://github.com/AlenaNikitiina/nutritiology/raw/main/opening.png)
